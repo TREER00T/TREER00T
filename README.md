@@ -8,23 +8,36 @@
 ## <img align="center" width="40" src="https://i.giphy.com/media/g19ZBWCQtWllHWZp5S/giphy.webp"> Bio
 
 <h4>
-<ul>
-  <li>I am a Junior Android Developer<img  align="center" width="40" src="https://i.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.webp">.</li>
-  <li>I like to Code <img align="center" width="40" src="https://i.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.webp"> , Design <img                      src="https://i.giphy.com/media/cdJwQTnlm0jvY2NHe2/giphy.webp"  width="30" align="center"> .</li>
-  <li> I love learning And challenge .</h4></li>
-</ul> 
+   <ul>
+     <li>I am a Junior Android Developer<img  align="center" width="40" src="https://i.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.webp">.</li>
+     <li>I like to Code <img align="center" width="40" src="https://i.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.webp"> , Design <img                              src="https://i.giphy.com/media/cdJwQTnlm0jvY2NHe2/giphy.webp"  width="30" align="center"> .</li>
+     <li> I love learning And challenge .</h4></li>
+   </ul> 
 </h4>
 
-## <img src="https://i.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.webp"  width="30" align="center"> Stats
+### <img src="https://i.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.webp"  width="30" align="center"> Stats
 
-<a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=treer00t&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=treer00t&theme=onedark&hide_border=true"/>
-    </a>
+<div>
+
+ 
+ <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?      &count_private=true&include_all_commits=true&username=treer00t&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=treer00t&theme=onedark&hide_border=true"/>
+ 
+ <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=treer00t&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="treer00t" height="192px"/>
+ </div>
+ 
+</div>
     
-## <img src="https://i.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.webp"  width="30" align="center"> My Skills
+  <br/>
+  <br/>
+   <a href="https://github.com/TREER00T"><img alt="TREER00T Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=treer00t&custom_title=TREER00T%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+
+
+### <img src="https://i.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.webp"  width="30" align="center"> My Skills
 
 ### <img src="https://i.giphy.com/media/WV3dGPzJsvcB9yp5iS/giphy.webp"  width="30" align="center"> Programming languages
 
@@ -91,3 +104,17 @@
   <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-%238a2be2.svg?logo=github&logoColor=white"></a>
    &emsp; 
 </p>
+
+
+### <img src="https://media0.giphy.com/media/ggLZdlT0nxTT7uygLh/giphy.gif"  width="30" align="center"> Let's Connect
+
+<p align="center">
+  <a href="https://treer00t.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:treeroot.ir@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/TREER00T"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://t.me/TREER00T"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+</p>
+
+
+
+
