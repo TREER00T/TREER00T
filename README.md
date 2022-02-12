@@ -1,16 +1,93 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Ali Azmoodeh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**TREER00T/TREER00T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Backend+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia&color=%23F7BC01"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img align="center" width="40" src="https://i.giphy.com/media/g19ZBWCQtWllHWZp5S/giphy.webp"> Bio
+
+<h4>
+<ul>
+  <li>I am a Junior Android Developer<img  align="center" width="40" src="https://i.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.webp">.</li>
+  <li>I like to Code <img align="center" width="40" src="https://i.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.webp"> , Design <img                      src="https://i.giphy.com/media/cdJwQTnlm0jvY2NHe2/giphy.webp"  width="30" align="center"> .</li>
+  <li> I love learning And challenge .</h4></li>
+</ul> 
+</h4>
+
+## <img src="https://i.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.webp"  width="30" align="center"> Stats
+
+<a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=treer00t&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=treer00t&theme=onedark&hide_border=true"/>
+    </a>
+    
+## <img src="https://i.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.webp"  width="30" align="center"> My Skills
+
+### <img src="https://i.giphy.com/media/WV3dGPzJsvcB9yp5iS/giphy.webp"  width="30" align="center"> Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%237f52ff.svg?logo=kotlin&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.java.com/" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?logo=node.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://developer.android.com/" target="_blank"> 
+    <img alt="Android" src="https://img.shields.io/badge/Android-%233ddc84.svg?logo=android&logoColor=white">
+  </a>
+&emsp; 
+</p>
+
+### <img src="https://i.giphy.com/media/WV3dGPzJsvcB9yp5iS/giphy.webp"  width="30" align="center"> Databases
+
+<p align="left">
+
+ &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+
+</p>
+
+
+### <img src="https://i.giphy.com/media/WV3dGPzJsvcB9yp5iS/giphy.webp"  width="30" align="center"> Graphic Designing
+
+<p align="left">
+  &emsp;  
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
+  </a> 
+  &emsp; 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+    <img alt="Adobe Xd" src="https://img.shields.io/badge/Adobe%20Xd-FF69b4?style=flat&logo=adobe%20Xd&logoColor=white"/>
+  </a>
+  &emsp; 
+ </p>
+ 
+ 
+ ### <img src="https://i.giphy.com/media/WV3dGPzJsvcB9yp5iS/giphy.webp"  width="30" align="center"> Software & Tools
+ 
+ <p align="left">
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp; 
+  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%233ddc84.svg?logo=android-studio&logoColor=white"></a>
+   &emsp; 
+  <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-%238a2be2.svg?logo=github&logoColor=white"></a>
+   &emsp; 
+</p>
