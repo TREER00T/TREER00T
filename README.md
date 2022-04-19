@@ -6,9 +6,10 @@
 
 ### Stats
 
- <img width="100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=treer00t&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=treer00t&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="treer00t" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=treer00t&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="treer00t" />
 
+<img width="50%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=treer00t&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+ 
 ### Bio
   
    -  I like to Code And Design .
