@@ -1,22 +1,10 @@
-<h1 align="center">Hi , I'm Ali Azmoodeh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Backend+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia&color=%23F7BC01"></a>
-</p>
+<h1>Hi , I'm Ali Azmoodeh</h1>
 
 ### Stats
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=treer00t&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="treer00t" />
-
-<img width="50%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=treer00t&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+<img width="100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=treer00t&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
  
-### Bio
-  
-   -  I like to Code And Design .
-   -  I love learning And challenge .
-   -  I am a Junior Android Developer .
-
-### Skills
+<h3>Skills</h3>
 
    -  Java
    -  Kotlin
