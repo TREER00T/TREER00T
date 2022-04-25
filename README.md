@@ -15,9 +15,3 @@
 
    -  Mysql
    -  MongoDb
-
-### Let's Connect
-
-   -  <a href="mailto:treeroot.ir@gmail.com" >Email</a>
-   -  <a href="https://treer00t.github.io/" >Website</a>
-   -  <a href="https://t.me/TREER00T" >Telegram</a>
