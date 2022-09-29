@@ -4,7 +4,7 @@
  
  ```json
  {
-    "Skill": {
+    "Skills": {
        "PHP": 20,
        "CSS": 30,
        "HTML": 40,
