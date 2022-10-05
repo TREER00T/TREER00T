@@ -9,6 +9,7 @@
        "CSS": 30,
        "HTML": 40,
        "Nest.js": 40,
+       "Laravel": 30,
        "React.js": 40,
        "JavaScript": 60,
        "TypeScript": 40
