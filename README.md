@@ -1,18 +1,1 @@
-<h1>Hi , I'm Ali Azmoodeh</h1>
-
-
- 
- ```json
- {
-    "Skills": {
-       "PHP": 20,
-       "CSS": 30,
-       "HTML": 40,
-       "Nest.js": 40,
-       "Laravel": 30,
-       "React.js": 40,
-       "JavaScript": 60,
-       "TypeScript": 40
-    }
- }
- ```
+<img src="https://media.tenor.com/GXNjvDEuurUAAAAS/over-the-hedge-verne.gif" width="100%" height="100%"/>
